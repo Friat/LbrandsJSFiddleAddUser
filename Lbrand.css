@@ -1,0 +1,7 @@
+#error {
+  color: red;
+}
+
+.invalid-email {
+  border: 1px solid red;
+}
